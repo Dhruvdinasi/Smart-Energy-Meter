@@ -147,3 +147,30 @@ The application will open in your browser.
 **Dhruv Dinasi**
 
 GitHub: [Dhruvdinasi](https://github.com/Dhruvdinasi)
+## 📸 Application Screenshots
+
+### ⚡ Energy Dashboard
+
+![Energy Dashboard](screenshots/dashboard.png)
+
+### 📈 Bill Prediction & Device Analysis
+
+![Bill Prediction](screenshots/prediction.png)
+
+### 🔍 Anomaly Detection
+
+![Anomaly Detection](screenshots/anomalies.png)
+
+### 🔧 Power Optimization
+
+![Power Optimization](screenshots/optimization.png)
+
+## 🌐 Live Demo
+
+Try the deployed application here:
+
+[Smart Energy Meter — Live Demo](https://smart-energy-meter.streamlit.app/)
+
+## 💻 Source Code
+
+[GitHub Repository](https://github.com/Dhruvdinasi/Smart-Energy-Meter)
